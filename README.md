@@ -31,4 +31,4 @@ satisfying first-order immunization under IBSL solvency requirements.
 Excel Solver, CBSL daily PD reports (Central Bank of Sri Lanka)
 
 ## Author
-Sachintha Piyumanthi — BSc (Hons) Finance & Insurance, University of Colombo
+Sachintha Kumarage — BSc (Hons) Finance & Insurance,Department of Mathematics, University of Colombo
